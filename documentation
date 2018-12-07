@@ -1,0 +1,54 @@
+Capstone 3 expectations & requirements
+1. Belong to one of the following criteria.
+	- Blog with commenting
+	- Social networking site
+	- Classroom/Inventory management system
+2. At least 2 CRUD EXCLUDING users
+	1 Content update CRUD
+		ex. Posts, Announcements, Topics, Review
+	1 Dependent content CRUD
+		ex. Comments, Ratings, Answers, Friends, Replies 
+3. At least 2 pivot tables. (Many to many relationships)
+4. Feel free to use other frameworks and APIs that integrate with laravel.
+5. User authorization is still a must. (Middleware)
+6. Real time validation via Ajax is still a must
+7. Storage links for your assets
+8. 50% frontend, 50% backend
+9. Portfolio should be included in the presentation
+10. A downloadable copy of your resume in PDF should be included.
+
+Timeline:
+Presentation is on Dec 6 (Thursday)
+
+Day 1
+	AM: Creation of project
+		Creation of database migration files
+	PM: Creation of Login/Register
+Day 2
+	AM: Seeding of database
+		Creation of Home view/route
+	PM: Reverse seeding of DB using orangehill
+Day 3
+	AM: Validation of registration 
+	PM: Validation of login
+Day 4
+	AM: Creation of storage links
+	PM: Creation of content update
+		File upload for content update
+Day 5
+	AM: Update of content update
+	PM: Delete of content update
+Day 6
+	AM: Creation of pivot table
+	PM: Linking of related tables
+Day 7
+	AM: Creation of dependent content
+	PM: Update/Delete of dependent content
+Day 8
+	AM: Creation of role table
+		Modification of user table
+	PM: Middleware authorization
+Day 9
+	AM/PM: Hosting
+Day 10
+	AM/PM: Debugging/Cleanup

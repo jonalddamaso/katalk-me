@@ -1,0 +1,9 @@
+Heroku - platform as a service (PaaS) that enables developer to build, run, and operate applicaitons entirely in the cloud, supporing several programming language like Ruby, java, node.js, scala, Clojure, Python, PHP, and Go.
+
+go to heroku.com
+signup for a free account (email and password)
+	password: uppercase, lowercase, symbol, and number
+
+	db4free.net -> testing service for mysql server
+
+	
